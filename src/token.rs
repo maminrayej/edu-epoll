@@ -1,1 +1,1 @@
-pub struct Token(pub usize);
+pub struct Token(pub u64);
